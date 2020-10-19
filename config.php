@@ -59,8 +59,8 @@ $btns = [
         "link" => "https://www.snapchat.com/add/lu.fraud",
     ],
     [
-        "Txt" => "Telegram Chat",
-        "link" => "https://t.me/kzstorechat",
+        "Txt" => "Telegram Support",
+        "link" => "https://t.me/joinchat/R9DzvByVV8StcaTk7IDoeA",
     ],
 ];
 
