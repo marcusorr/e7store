@@ -114,10 +114,10 @@ $PDesc = "Get some juicy products and services off us!";
 // First is the Product Name. Second is the Product Description. Third is the Product ID can be found int he URL. Fourth is your product Image.
 $Products = [
     [
-        "Name" => "Depop Account x 2",
-        "Desc" => "Depop logins with random ammounts of followers.",
-        "ID" => "5f79a87b9df0d",
-        "Image" => "https://cdn.sellix.io/static/images/products/ced9598f3928b9ccfa21829171f05cb08dac5e268aee66b887c1d3687650b5c6.jpeg",
+        "Name" => "Mail Access",
+        "Desc" => "These are email accounts that log in and may have amazon, ebay and paypal attached and you can bypass reset passwords and otp using them.",
+        "ID" => "5f8de914be93a",
+        "Image" => "https://cdn.sellix.io/static/images/products/95087fa1386013965a57eabe27ed7173a8ee0b33c91fcaa582721b6e96ba3f7a.png",
     ],
    
 ];
