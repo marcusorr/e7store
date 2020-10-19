@@ -37,6 +37,10 @@ $navbar = [
         "item" => "Telegram chat",
         "href" => "https://t.me/kzstorechat",
     ]
+    [
+        "item" => "MK Approved",
+        "href" => "https://ww.snapchat.com/add/xmk.x1",
+    ]
 ];
 
 
